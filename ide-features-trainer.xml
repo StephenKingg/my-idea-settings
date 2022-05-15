@@ -33,6 +33,7 @@
         <entry key="java.debug.workflow" value="PASSED" />
         <entry key="java.inheritance.hierarchy.lesson" value="PASSED" />
         <entry key="java.occurrences.lesson" value="PASSED" />
+        <entry key="java.onboarding" value="NOT_PASSED" />
         <entry key="java.refactoring.menu" value="PASSED" />
         <entry key="java.run.configuration" value="PASSED" />
         <entry key="move" value="PASSED" />
@@ -40,6 +41,7 @@
         <entry key="postfix completion" value="PASSED" />
         <entry key="recent files and locations" value="PASSED" />
         <entry key="refactorings in a nutshell" value="NOT_PASSED" />
+        <entry key="refactorings.extractmethod" value="NOT_PASSED" />
         <entry key="refactorings.rename" value="PASSED" />
         <entry key="search everywhere" value="PASSED" />
         <entry key="secrets of efficient navigation" value="NOT_PASSED" />
